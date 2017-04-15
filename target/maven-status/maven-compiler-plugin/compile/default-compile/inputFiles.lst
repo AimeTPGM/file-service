@@ -1,0 +1,10 @@
+/Users/AimeTPGM/Programming/SpringProject/FileService/src/main/java/mongodb/main/SpringMongoConFig.java
+/Users/AimeTPGM/Programming/SpringProject/FileService/src/main/java/mongodb/dao/FileDAO.java
+/Users/AimeTPGM/Programming/SpringProject/FileService/src/main/java/mongodb/dao/FileDAOImpl.java
+/Users/AimeTPGM/Programming/SpringProject/FileService/src/main/java/main/model/MyFile.java
+/Users/AimeTPGM/Programming/SpringProject/FileService/src/main/java/main/Application.java
+/Users/AimeTPGM/Programming/SpringProject/FileService/src/main/java/main/ApplicationConfig.java
+/Users/AimeTPGM/Programming/SpringProject/FileService/src/main/java/main/model/MyFileWithoutIS.java
+/Users/AimeTPGM/Programming/SpringProject/FileService/src/main/java/main/rest/FileRest.java
+/Users/AimeTPGM/Programming/SpringProject/FileService/src/main/java/main/rest/SimpleCORSFilter.java
+/Users/AimeTPGM/Programming/SpringProject/FileService/src/main/java/mongodb/main/MongoDBMain.java
