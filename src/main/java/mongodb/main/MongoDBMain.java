@@ -11,7 +11,7 @@ public class MongoDBMain {
 	 
     public static final String DB_NAME = "filetest";
     public static final String COLLECTION = "filetestonly";
-    public static final String MONGO_HOST = "210.121.158.170";
+    public static final String MONGO_HOST = "210.121.158.166";
     public static final int MONGO_PORT = 27017;
     private static MongoClient mongo;
     private static ApplicationContext ctx = null;
